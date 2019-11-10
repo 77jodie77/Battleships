@@ -1,0 +1,16 @@
+3
+Battleship B 4 4 6 0 1 
+Cruiser1 C1 3 1 8 0 0 
+Cruiser2 C2 3 5 8 0 0 
+Destroyer1 D1 2 5 0 0 0 
+Destroyer2 D2 2 7 7 0 0 
+Destroyer3 D3 2 6 9 0 0 
+Submarine1 S1 1 1 2 0 0 
+Submarine2 S2 1 8 5 0 0 
+Submarine3 S3 1 2 0 0 0 
+X 1 3
+X 6 3
+X 3 4
+X 4 5
+O 5 6
+O 6 7
